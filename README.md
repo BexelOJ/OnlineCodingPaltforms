@@ -2,7 +2,7 @@
 
 Website for Online Coding Practice and Test.
 
-1.) https://leetcode.com/
+1.) https://leetcode.com/    # The Best
 
 2.) https://www.hackerrank.com/
 
@@ -10,7 +10,7 @@ Website for Online Coding Practice and Test.
 
 4.) https://www.hackerearth.com/
 
-5.) https://icpc.global/
+5.) https://icpc.global/    # The First
 
 6.) https://www.onlinegdb.com/    # Online Compiler
 
@@ -36,9 +36,9 @@ Website for Online Coding Practice and Test.
 
 17.) https://www.codesdope.com/
 
-18.) https://www.sololearn.com/
+18.) https://www.sololearn.com/    # Theory + Coding Excercises
 
 19.) https://exercism.org/
 
-20.) https://discord.com/
+20.) https://discord.com/    # Community
 
