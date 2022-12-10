@@ -1,6 +1,6 @@
 # OnlineCodingPaltforms
 
-Website for Online Coding Practice and Test.
+Websites for Online Coding Practice and Test.
 
 1.) https://leetcode.com/    # The Best
 
